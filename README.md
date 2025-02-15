@@ -1,1 +1,1 @@
-# BankIngGUI
+# BankIng Application
